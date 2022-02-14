@@ -33,7 +33,7 @@ def createImg(image):
 
 
 def createHKernel(a1,b1,a2,b2,a3,b3,a4,b4,space):
-    # This function is mostly taken from Dr. Mike Pount at
+    # This function is mostly taken from Dr. Mike Pound at
     # https://github.com/mikepound/convolve
     size = space.shape
     lengt = size[1]
