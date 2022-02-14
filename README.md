@@ -1,9 +1,9 @@
 # BokehFilter
-:: implementation of a complex design for a bokeh image filter ::
+:: complex design for a bokeh image filter ::
 
 
 
-A simple implementation of a fast and practical way to design a bokeh filter for gaming or digital image filtering.
+implementation of a fast and practical way to design a bokeh filter for gaming or digital image filtering.
 
 Any image can be used
 
